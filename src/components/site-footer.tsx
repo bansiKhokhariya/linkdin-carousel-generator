@@ -9,27 +9,15 @@ export function SiteFooter() {
           <p className="text-center text-xs md:text-sm leading-loose md:text-left ">
             Built by{" "}
             <a
-              href={"https://twitter.com/franmoretti_"}
+              // href={"https://twitter.com/franmoretti_"}
               target="_blank"
               rel="noreferrer"
               className="font-medium underline underline-offset-4"
             >
-              franmoretti_
+              HKAPPS
             </a>
           </p>
         </div>
-        <p className="text-center text-xs md:text-sm md:text-left">
-          Code on{" "}
-          <a
-            href={"https://github.com/FranciscoMoretti/carousel-generator"}
-            target="_blank"
-            rel="noreferrer"
-            className="font-medium underline underline-offset-4"
-          >
-            GitHub
-          </a>
-          .
-        </p>
       </div>
     </footer>
   );
