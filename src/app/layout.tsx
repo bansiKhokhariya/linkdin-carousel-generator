@@ -100,6 +100,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9501208503249924"
+     crossOrigin="anonymous"></script>
+     <meta name="google-adsense-account" content="ca-pub-9501208503249924"></meta>
       <body
         className={`${dm_sans.variable} ${dm_serif_display.variable} ${pt_serif.variable} ${roboto.variable} ${roboto_condensed.variable} ${ultra.variable} ${inter.variable} ${syne.variable} ${archivoBlack.variable}  ${montserrat.variable}  ${GeistSans.variable} flex flex-col min-h-screen items-stretch justify-between antialiased`}
       >
